@@ -1,5 +1,4 @@
 # Jazminboot
-
 **Análisis financiero y de gestión de institución médica**
 
 Este archivo contiene dashboards interactivos construidos a partir de múltiples tablas relacionadas, diseñados para analizar en profundidad el comportamiento financiero y clínico de una institución médica.
@@ -31,3 +30,4 @@ Con ello se pudieron dar las siguientes recomendaciones al equipo directivo de l
 La narrativa utilizada no se limitó a exponer cifras, sino que traducimos los datos en historias comprensibles según el perfil del interesado, ya sea un directivo, médico o administrativo. Esta aproximación reduce la fricción en la interpretación, destaca patrones críticos y permite alinear estrategias con evidencia concreta.
 
 En conclusión, este enfoque visual y narrativo no solo permite detectar problemas u oportunidades, sino también facilita decisiones informadas, ágiles y sostenibles en todos los niveles de la organización.
+
